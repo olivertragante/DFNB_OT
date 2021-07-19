@@ -1,7 +1,7 @@
 USE [DFNB2]
 GO
 
-/****** Object:  Table [dbo].[tblBranCustAcctSum]    Script Date: 7/8/2021 11:21:09 PM ******/
+/****** Object:  Table [dbo].[tblBranCustAcctSum]    Script Date: 6/15/2021 11:21:09 PM ******/
 SET ANSI_NULLS ON
 GO
 
